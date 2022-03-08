@@ -1,0 +1,22 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+
+}
+section,footer {
+    padding: 20px 0;
+}
+.card-panel{
+    background-color: gray ;
+}
+.brand-logo{
+    font-family: 'Rubik', sans-serif;
+}
+.slider{
+    font-family: 'Rubik', sans-serif;
+    color: rgba(245, 245, 245, 0.72);
+}
+
+.about h5 {
+    background-size: 50%;
+}
